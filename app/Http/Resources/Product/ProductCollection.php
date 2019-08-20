@@ -6,6 +6,7 @@ use Illuminate\Http\Resources\Json\Resource;
 
 class ProductCollection extends Resource
 {
+ 
     /**
      * Transform the resource collection into an array.
      *
